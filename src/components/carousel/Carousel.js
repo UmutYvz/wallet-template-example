@@ -28,7 +28,6 @@ const carouselItems = [
     active: true,
     color: colors.orangeBorder,
     borderColor: colors.orangeOutBorder,
-
     image: images.coffee,
   },
   {
@@ -37,7 +36,6 @@ const carouselItems = [
     active: true,
     color: colors.pinkBorder,
     borderColor: colors.pinkBorder,
-
     image: images.aven,
   },
 ];

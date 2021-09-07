@@ -51,6 +51,7 @@ const styles = StyleSheet.create({
     borderBottomColor: colors.inputBorder,
     flexDirection: 'row',
     height: 50,
+    zIndex: 99,
   },
   textInput: {
     paddingVertical: 15,
